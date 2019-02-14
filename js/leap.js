@@ -5,7 +5,7 @@ if (input % 4 == 0) {
 }else if (input% 100 == 0 && input % 400 == 0) {
  alert("true");
 } else {
- alert("false")
+ alert("false";)
 }
 
 
