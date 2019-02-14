@@ -6,6 +6,7 @@ if (input % 4 == 0) {
  alert("true");
 } else {
  alert("false");
+
 }
 
 
